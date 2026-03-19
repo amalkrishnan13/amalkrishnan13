@@ -6,9 +6,9 @@ With over 2 years of experience at Amazon as a Data Associate, I developed a str
 
 Here you'll find hands-on examples of:
 
-💾 SQL query writing and database analysis
-🐍 Python scripting for data cleaning, processing, and automation
-📊 Data manipulation and analysis using Pandas and NumPy
+* 💾 SQL query writing and database analysis
+* 🐍 Python scripting for data cleaning, processing, and automation
+* 📊 Data manipulation and analysis using Pandas and NumPy
 📈 Advanced Excel techniques including dashboarding
 📊 Power BI dashboards and data visualization
 💡 Practical applications solving real-world business challenges
