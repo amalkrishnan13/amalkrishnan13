@@ -9,9 +9,10 @@ Here you'll find hands-on examples of:
 * 💾 SQL query writing and database analysis
 * 🐍 Python scripting for data cleaning, processing, and automation
 * 📊 Data manipulation and analysis using Pandas and NumPy
-📈 Advanced Excel techniques including dashboarding
-📊 Power BI dashboards and data visualization
-💡 Practical applications solving real-world business challenges
+* 📈 Advanced Excel techniques including dashboarding
+* 📊 Power BI dashboards and data visualization
+* 💡 Practical applications solving real-world business challenges
+  
 This repository reflects my exciting journey in mastering data analytics, where every project represents a step toward turning raw data into impactful insights. 📉➡️📊
 
 Feel free to explore the code, drop feedback 💬, or connect with me for collaboration opportunities! 🤝
